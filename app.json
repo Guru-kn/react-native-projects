@@ -27,7 +27,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.socgen.maxapp"
+      "package": "com.mycomp.maxapp"
     }
   }
 }
